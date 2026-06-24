@@ -41,8 +41,8 @@ It is designed to replace manual news aggregation with a zero-touch, always-on s
 
 ---
 
-![ARIA Overview](ARIA/ARIA_01.png)
-![ARIA Overview 2](ARIA/ARIA_02.png)
+![ARIA Workflow Overview](assets/ARIA_01.png)
+![ARIA Workflow Overview 2](assets/ARIA_02.png)
 
 ---
 
@@ -148,17 +148,17 @@ Read Sheets Database → Filter Last 7 Days → AI Summary → Telegram Weekly R
 </div>
 
 ### n8n Workflow Canvas
-![ARIA Workflow](ARIA/ARIA_FULL.png)
+![ARIA Workflow Canvas](assets/ARIA_FULL.png)
 
 ### Google Sheets Database Output
-![ARIA Excel Output 1](ARIA/ARIA_EXCEL_01.png)
-![ARIA Excel Output 2](ARIA/ARIA_EXCEL_02.png)
-![ARIA Excel Output 3](ARIA/ARIA_EXCEL_03.png)
+![Google Sheets Output 1](assets/ARIA_EXCEL_01.png)
+![Google Sheets Output 2](assets/ARIA_EXCEL_02.png)
+![Google Sheets Output 3](assets/ARIA_EXCEL_03.png)
 
 ### Telegram Daily Brief
-![ARIA Telegram Bot 1](ARIA/ARIA_BOT_01.png)
-![ARIA Telegram Bot 2](ARIA/ARIA_BOT_02.png)
-![ARIA Telegram Bot 3](ARIA/ARIA_BOT_03.png)
+![Telegram Bot Output 1](assets/ARIA_BOT_01.png)
+![Telegram Bot Output 2](assets/ARIA_BOT_02.png)
+![Telegram Bot Output 3](assets/ARIA_BOT_03.png)
 
 ---
 
@@ -279,15 +279,6 @@ All secrets are stored directly in n8n's built-in credential manager — never i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-MIT License — Copyright (c) 2026 Naveed Bhat
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, and distribute, subject to the
-following conditions: The above copyright notice and this permission notice
-shall be included in all copies or substantial portions of the Software.
-```
 
 ---
 
