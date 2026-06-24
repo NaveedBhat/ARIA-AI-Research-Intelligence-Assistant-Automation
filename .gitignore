@@ -1,0 +1,10 @@
+# Private — do not push
+ARIA.json
+ARIA_BUILD_GUIDE.md
+Automating AI News Curation.md
+Automating AI News Curation NEW.md
+SUMMARY.md
+
+# System
+.DS_Store
+*.log
