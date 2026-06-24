@@ -1,10 +1,26 @@
-# Private — do not push
+# ================================
+# ARIA — Private / Secret Files
+# ================================
 ARIA.json
 ARIA_BUILD_GUIDE.md
 Automating AI News Curation.md
 Automating AI News Curation NEW.md
 SUMMARY.md
+README_FULL.md
+README_old.md
 
-# System
+# ================================
+# macOS System Files
+# ================================
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ================================
+# Logs & Temp
+# ================================
 *.log
+*.tmp
+*.bak
